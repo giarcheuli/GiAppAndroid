@@ -1,2 +1,2 @@
-# GiApp
-GiApp is a personal project for education
+# GiAppAndroid
+GiAppAndroid is a personal project for education
